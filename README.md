@@ -1,8 +1,5 @@
 #CTFWi-Fi
 -------------------
-
-![](wifid.png)
-
 How to Solve ?
 -------------------
 
@@ -12,4 +9,6 @@ How to Solve ?
 
 Output
 -------------------
-- ![](wifi.png)
+![](wifi.png)
+
+- Wifi password found
